@@ -1,10 +1,10 @@
-import './App.css';
-import Map from './components/myMap/Map';
+import MainBody from "./components/MainBody/MainBody";
+
 
 function App() {
   return (
     <div>
-      <Map />
+      <MainBody />
     </div>
   );
 }
